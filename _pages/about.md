@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Researcher at UC San Diego
+subtitle: Doctoral Researcher at [UC San Diego](https://www.ucsd.edu/)
 
 profile:
   align: right
