@@ -7,7 +7,7 @@ subtitle: Doctoral Researcher at UC San Diego
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Jacobs Hall</p>
     <p>19736 Engineers Ln</p>
