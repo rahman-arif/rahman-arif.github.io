@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Researcher at [UC San Diego](https://www.ucsd.edu/)
+subtitle: Doctoral Researcher at [UC San Diego](https://www.ucsd.edu/) | [Integrated Photonics Group](https://integratedphotonics.ucsd.edu/)
 
 profile:
   align: right
