@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Research at UC San Diego
+subtitle: Doctoral Researcher at UC San Diego
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Arif Rahman, a Ph.D. student in Electrical and Computer Engineering (Photonics) at the University of California San Diego (UCSD). I work in the Integrated Photonics Group, where my research focuses on hybrid electro-optic modulators and wafer-scale silicon photonics integration. My work bridges nanophotonics, integrated optics, and high-speed electro-optic characterization, with an emphasis on designing efficient photonic devices that enable next-generation optical communication systems.
+I’m Arif Rahman, a Ph.D. student in Electrical and Computer Engineering (Photonics) at the University of California San Diego (UCSD). I work in the Integrated Photonics Group, where my research focuses on hybrid electro-optic modulators and wafer-scale silicon photonics integration.
 
-Before joining UCSD, I was a Lecturer and Lab Coordinator at BRAC University, where I taught undergraduate courses in Circuits, Electronics, and Microprocessors, and contributed to outcome-based education (OBE) curriculum development. I also served as a Teaching Assistant for multiple core EEE courses for two years. I completed my B.S. in Electrical and Electronic Engineering (with a minor in Mathematics) at North South University, where I graduated Summa Cum Laude at the top of my class (1st of 178 students) with a concentration in Solid-State Electronics.
+Before joining UCSD, I worked as a Lecturer and Lab Coordinator at BRAC University, where I taught undergraduate courses in Circuits, Electronics, and Microprocessors, and contributed to outcome-based education (OBE) curriculum development. Prior to that, I worked as a Research Assistant at the NSU Optics Lab and a Teaching Assistant in the Department of Electrical and Computer Engineering at North South University. I completed my B.S. in Electrical and Electronic Engineering (with a minor in Mathematics) at North South University, where I graduated Summa Cum Laude at the top of my class (1st of 178 students) with a concentration in Solid-State Electronics.
 
