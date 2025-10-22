@@ -33,6 +33,4 @@ Before joining UCSD, I worked as a Lecturer and Lab Coordinator at [BRAC Univers
 
 I completed my B.S. in Electrical and Electronic Engineering (with a minor in Mathematics) at NSU, where I graduated *Summa Cum Laude* at the top of my class with a concentration in Solid-State Electronics.
 
----
-
-Outside of research, I’m a recreational endurance athlete — check out my [Athlinks profile](https://www.athlinks.com/athletes/570046763).
+Outside of research, I am a recreational endurance athlete — check out my [Athlinks profile](https://www.athlinks.com/athletes/570046763).
