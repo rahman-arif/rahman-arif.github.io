@@ -1,200 +1,206 @@
-{
-  "basics": {
-    "name": "Arif Rahman",
-    "label": "Researcher",
-    "image": "",
-    "email": "m9rahman [at] ucsd [dot] edu",
-    "phone": "",
-    "url": "https://rahman-arif.github.io/",
-    "summary": "Photonics PhD student at the University of California San Diego.",
-    "location": {
-      "address": "19736 Engineers Ln",
-      "postalCode": "CA 92093",
-      "city": "La Jolla",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "University of California, San Diego",
-      "position": "Graduate Student Researcher (GSR)",
-      "url": "https://example.com",
-      "startDate": "2024-10-01",
-      "endDate": "present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Integrated Photonics"]
-    }
-  ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
-  "education": [
-    {
-      "institution": "University of California San Diego, California, USA",
-      "location": "La Jolla, California",
-      "url": "https://www.ucsd.edu/",
-      "area": "Photonics",
-      "studyType": "PhD",
-      "startDate": "2024-09-1",
-      "endDate": "Present",
-      "score": "10",
-      "courses": ["Integrated Photonics"] ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
-}
+     1  {
+     2      "basics": {
+     3          "name": "Arif Rahman",
+     4          "label": "Photonics PhD Student",
+     5          "image": "",
+     6          "email": "m9rahman@ucsd.edu",
+     7          "phone": "+1 858 241 1272",
+     8          "url": "https://rahman-arif.github.io/",
+     9          "summary": "Photonics researcher focused on hybrid lithium niobate electro-optic modulators, silicon nitride pho
+tonics integration, and high-speed characterization.",
+    10          "location": {
+    11              "address": "",
+    12              "postalCode": "92093",
+    13              "city": "La Jolla",
+    14              "countryCode": "US",
+    15              "region": "California"
+    16          },
+    17          "profiles": []
+    18      },
+    19      "work": [
+    20          {
+    21              "name": "University of California San Diego",
+    22              "position": "Graduate Student Researcher",
+    23              "url": "https://ipg.ucsd.edu/",
+    24              "startDate": "2024-10-01",
+    25              "endDate": "Present",
+    26              "summary": "Integrated Photonics Group (Mookherjea Lab), UC San Diego",
+    27              "highlights": [
+    28                  "Design hybrid electro-optic modulators combining lithium niobate and silicon nitride waveguides.",
+    29                  "Simulate device performance and validate through optical and high-speed electro-optic characterization.
+",
+    30                  "Collaborate on test-chip layout, data analysis, and troubleshooting across photonics integration projec
+ts."
+    31              ]
+    32          },
+    33          {
+    34              "name": "North South University",
+    35              "position": "Research Assistant",
+    36              "url": "https://www.northsouth.edu/",
+    37              "startDate": "2022-01-01",
+    38              "endDate": "2022-09-01",
+    39              "summary": "NSU Optics Lab, Dhaka, Bangladesh",
+    40              "highlights": [
+    41                  "Conducted finite element simulations to study ongoing optics projects and interpret underlying physics.
+",
+    42                  "Assisted with EEE499 Capstone Design instruction and guided undergraduate researchers on modeling and m
+anuscripts."
+    43              ]
+    44          },
+    45          {
+    46              "name": "BRAC University",
+    47              "position": "Lecturer and Lab Coordinator",
+    48              "url": "https://www.bracu.ac.bd/",
+    49              "startDate": "2022-09-01",
+    50              "endDate": "2024-05-01",
+    51              "summary": "Department of Computer Science and Engineering, Dhaka, Bangladesh",
+    52              "highlights": [
+    53                  "Taught circuits, electronics, digital systems, and microprocessors to 150+ undergraduates per trimester
+.",
+    54                  "Coordinated Microprocessors Lab curriculum updates aligned with OBE and Washington Accord standards."
+    55              ]
+    56          },
+    57          {
+    58              "name": "North South University",
+    59              "position": "Teaching Assistant",
+    60              "url": "https://www.northsouth.edu/",
+    61              "startDate": "2020-11-01",
+    62              "endDate": "2022-09-01",
+    63              "summary": "Department of Electrical and Computer Engineering, Dhaka, Bangladesh",
+    64              "highlights": [
+    65                  "Supported instruction across six core EEE courses including Signals and Systems, Power Systems, and Ele
+ctromagnetics.",
+    66                  "Led tutorials, graded assessments for 180+ students each trimester, and assisted faculty with course de
+livery."
+    67              ]
+    68          }
+    69      ],
+    70      "education": [
+    71          {
+    72              "institution": "University of California San Diego",
+    73              "location": "La Jolla, California, USA",
+    74              "url": "https://www.ucsd.edu/",
+    75              "area": "Electrical and Computer Engineering (Photonics)",
+    76              "studyType": "Ph.D.",
+    77              "startDate": "2024-09-01",
+    78              "endDate": "Present",
+    79              "courses": [
+    80                  "Lasers and Optics",
+    81                  "Optical Information Processing",
+    82                  "Nonlinear Optics",
+    83                  "Integrated Photonics",
+    84                  "Nanoelectronics",
+    85                  "Nanophotonics",
+    86                  "Optical Processes in Semiconductors",
+    87                  "Solid State Electronics"
+    88              ]
+    89          },
+    90          {
+    91              "institution": "North South University",
+    92              "location": "Dhaka, Bangladesh",
+    93              "url": "https://www.northsouth.edu/",
+    94              "area": "Electrical and Electronic Engineering (Minor in Mathematics)",
+    95              "studyType": "B.Sc.",
+    96              "startDate": "2018-05-01",
+    97              "endDate": "2022-04-01",
+    98              "score": "Summa Cum Laude, top of class (1/178); Concentration in Solid State Electronics",
+    99              "courses": []
+   100          }
+   101      ],
+   102      "publications": [
+   103          {
+   104              "name": "High-performance Hybrid Lithium Niobate Electro-optic Modulators Integrated with Low-loss Silicon N
+itride Waveguides on a Wafer-scale Silicon Photonics Platform",
+   105              "publisher": "arXiv",
+   106              "releaseDate": "2025-04-01",
+   107              "url": "https://arxiv.org/abs/2504.00311",
+   108              "summary": "Md Arifur Rahman, Forrest Valdez, Viphretuo Mere, Camiel Op de Beeck, Pieter Wuytens, and Shayan
+ Mookherjea, April 2025."
+   109          }
+   110      ],
+   111      "certificates": [
+   112          {
+   113              "name": "MicroMBA",
+   114              "issuer": "University of California San Diego - Rady School of Management",
+   115              "date": "2025-09-01",
+   116              "url": "https://www.credly.com/badges/c02bacec-612b-4e2e-bced-219bedfb6e63/public_url"
+   117          },
+   118          {
+   119              "name": "Professional Certificate in Silicon Photonics",
+   120              "issuer": "University of British Columbia",
+   121              "date": "2024-07-01",
+   122              "url": "https://courses.edx.org/certificates/0122f7d68f21432394c1832317671997"
+   123          }
+   124      ],
+   125      "skills": [
+   126          {
+   127              "name": "Simulation and Computer Aided Engineering",
+   128              "level": "",
+   129              "keywords": [
+   130                  "COMSOL",
+   131                  "Lumerical FDTD",
+   132                  "Ansys HFSS",
+   133                  "MATLAB"
+   134              ]
+   135          },
+   136          {
+   137              "name": "Circuit Simulation",
+   138              "level": "",
+   139              "keywords": [
+   140                  "Proteus Design Suite",
+   141                  "NI Multisim",
+   142                  "PSpice",
+   143                  "LTSpice",
+   144                  "Logisim"
+   145              ]
+   146          },
+   147          {
+   148              "name": "VLSI Design Tools",
+   149              "level": "",
+   150              "keywords": [
+   151                  "Cadence",
+   152                  "Microwind"
+   153              ]
+   154          },
+   155          {
+   156              "name": "Programming",
+   157              "level": "",
+   158              "keywords": [
+   159                  "Python",
+   160                  "C",
+   161                  "Assembly"
+   162              ]
+   163          },
+   164          {
+   165              "name": "Design and Modeling",
+   166              "level": "",
+   167              "keywords": [
+   168                  "Blender",
+   169                  "AutoCAD",
+   170                  "SketchUp"
+   171              ]
+   172          },
+   173          {
+   174              "name": "Documentation",
+   175              "level": "",
+   176              "keywords": [
+   177                  "MS Office Suite",
+   178                  "LaTeX"
+   179              ]
+   180          }
+   181      ],
+   182      "awards": [
+   183          {
+   184              "title": "Summa Cum Laude",
+   185              "date": "2022-06-01",
+   186              "awarder": "North South University",
+   187              "summary": "Graduated top of the class with the highest distinction."
+   188          },
+   189          {
+   190              "title": "Merit-based Scholarship",
+   191              "date": "2022-04-01",
+   192              "awarder": "North South University",
+   193              "summary": "Four-year scholarship awarded based on admission test performance."
+   194          }
+   195      ]
+   196  }
