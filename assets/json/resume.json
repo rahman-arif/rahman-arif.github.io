@@ -3,8 +3,8 @@
     "name": "Arif Rahman",
     "label": "Photonics PhD Student",
     "image": "",
-    "email": "m9rahman@ucsd.edu",
-    "phone": "+1 858 241 1272",
+    "email": "",
+    "phone": "",
     "url": "https://rahman-arif.github.io/",
     "summary": "Photonics researcher focused on hybrid lithium niobate electro-optic modulators, silicon nitride photonics integration, and high-speed characterization.",
     "location": {
@@ -34,8 +34,8 @@
       "name": "North South University",
       "position": "Research Assistant",
       "url": "https://www.northsouth.edu/",
-      "startDate": "2022-01-01",
-      "endDate": "2022-09-01",
+      "startDate": "2022-01",
+      "endDate": "2022-09",
       "summary": "NSU Optics Lab, Dhaka, Bangladesh",
       "highlights": [
         "Conducted finite element simulations to study ongoing optics projects and interpret underlying physics.",
@@ -46,8 +46,8 @@
       "name": "BRAC University",
       "position": "Lecturer and Lab Coordinator",
       "url": "https://www.bracu.ac.bd/",
-      "startDate": "2022-09-01",
-      "endDate": "2024-05-01",
+      "startDate": "2022-09",
+      "endDate": "2024-05",
       "summary": "Department of Computer Science and Engineering, Dhaka, Bangladesh",
       "highlights": [
         "Taught circuits, electronics, digital systems, and microprocessors to 150+ undergraduates per trimester.",
@@ -58,8 +58,8 @@
       "name": "North South University",
       "position": "Teaching Assistant",
       "url": "https://www.northsouth.edu/",
-      "startDate": "2020-11-01",
-      "endDate": "2022-09-01",
+      "startDate": "2020-11",
+      "endDate": "2022-09",
       "summary": "Department of Electrical and Computer Engineering, Dhaka, Bangladesh",
       "highlights": [
         "Supported instruction across six core EEE courses including Signals and Systems, Power Systems, and Electromagnetics.",
@@ -74,7 +74,7 @@
       "url": "https://www.ucsd.edu/",
       "area": "Electrical and Computer Engineering (Photonics)",
       "studyType": "Ph.D.",
-      "startDate": "2024-09-01",
+      "startDate": "2024-09",
       "endDate": "Present",
       "courses": [
         "Lasers and Optics",
@@ -93,8 +93,8 @@
       "url": "https://www.northsouth.edu/",
       "area": "Electrical and Electronic Engineering (Minor in Mathematics)",
       "studyType": "B.Sc.",
-      "startDate": "2018-05-01",
-      "endDate": "2022-04-01",
+      "startDate": "2018-05",
+      "endDate": "2022-04",
       "score": "Summa Cum Laude, top of class (1/178); Concentration in Solid State Electronics",
       "courses": []
     }
@@ -103,7 +103,7 @@
     {
       "name": "High-performance Hybrid Lithium Niobate Electro-optic Modulators Integrated with Low-loss Silicon Nitride Waveguides on a Wafer-scale Silicon Photonics Platform",
       "publisher": "arXiv",
-      "releaseDate": "2025-04-01",
+      "releaseDate": "2025-04",
       "url": "https://arxiv.org/abs/2504.00311",
       "summary": "Md Arifur Rahman, Forrest Valdez, Viphretuo Mere, Camiel Op de Beeck, Pieter Wuytens, and Shayan Mookherjea, April 2025."
     }
@@ -112,13 +112,13 @@
     {
       "name": "MicroMBA",
       "issuer": "University of California San Diego - Rady School of Management",
-      "date": "2025-09-01",
+      "date": "2025-09",
       "url": "https://www.credly.com/badges/c02bacec-612b-4e2e-bced-219bedfb6e63/public_url"
     },
     {
       "name": "Professional Certificate in Silicon Photonics",
       "issuer": "University of British Columbia",
-      "date": "2024-07-01",
+      "date": "2024-07",
       "url": "https://courses.edx.org/certificates/0122f7d68f21432394c1832317671997"
     }
   ],
@@ -182,13 +182,13 @@
   "awards": [
     {
       "title": "Summa Cum Laude",
-      "date": "2022-06-01",
+      "date": "2022-06",
       "awarder": "North South University",
       "summary": "Graduated top of the class with the highest distinction."
     },
     {
       "title": "Merit-based Scholarship",
-      "date": "2022-04-01",
+      "date": "2022-04",
       "awarder": "North South University",
       "summary": "Four-year scholarship awarded based on admission test performance."
     }
