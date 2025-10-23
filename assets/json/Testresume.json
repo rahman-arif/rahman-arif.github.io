@@ -6,8 +6,7 @@
      6          "email": "m9rahman@ucsd.edu",
      7          "phone": "+1 858 241 1272",
      8          "url": "https://rahman-arif.github.io/",
-     9          "summary": "Photonics researcher focused on hybrid lithium niobate electro-optic modulators, silicon nitride pho
-tonics integration, and high-speed characterization.",
+     9          "summary": "Photonics researcher focused on hybrid lithium niobate electro-optic modulators, silicon nitride photonics integration, and high-speed characterization.",
     10          "location": {
     11              "address": "",
     12              "postalCode": "92093",
@@ -27,10 +26,8 @@ tonics integration, and high-speed characterization.",
     26              "summary": "Integrated Photonics Group (Mookherjea Lab), UC San Diego",
     27              "highlights": [
     28                  "Design hybrid electro-optic modulators combining lithium niobate and silicon nitride waveguides.",
-    29                  "Simulate device performance and validate through optical and high-speed electro-optic characterization.
-",
-    30                  "Collaborate on test-chip layout, data analysis, and troubleshooting across photonics integration projec
-ts."
+    29                  "Simulate device performance and validate through optical and high-speed electro-optic characterization.",
+    30                  "Collaborate on test-chip layout, data analysis, and troubleshooting across photonics integration projects."
     31              ]
     32          },
     33          {
