@@ -19,9 +19,10 @@
   "work": [
     {
       "name": "University of California San Diego",
+      "image": "img/Seal_of_the_University_of_California,_San_Diego.png",
       "position": "Graduate Student Researcher",
       "url": "https://ipg.ucsd.edu/",
-      "startDate": "2024-10-01",
+      "startDate": "2024-10",
       "endDate": "Present",
       "summary": "Integrated Photonics Group (Mookherjea Lab), UC San Diego",
       "highlights": [
