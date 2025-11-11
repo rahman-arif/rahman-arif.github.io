@@ -34,3 +34,18 @@ Before joining UCSD, I worked as a Lecturer and Lab Coordinator at [BRAC Univers
 I completed my B.S. in Electrical and Electronic Engineering (with a minor in Mathematics) at NSU, where I graduated *Summa Cum Laude* at the top of my class with a concentration in Solid-State Electronics.
 
 Outside of research, I am into endurance sports — check out my recent races on [Athlinks](https://www.athlinks.com/athletes/570046763).
+
+---
+## Education
+
+- **UC San Diego** — Doctor of Philosophy, Photonics (Sep 2024 – Present)  
+  Coursework: Lasers & Optics, Integrated Photonics, Nonlinear Optics, Nanophotonics.
+- **North South University** — B.S. Electrical & Electronic Engineering, Minor in Mathematics (2018 – 2022)  
+  Graduated Summa Cum Laude (1/178); GPA 3.93/4.00.
+
+## Licenses & certifications
+
+- **MicroMBA** — UC San Diego Rady School of Management (Issued Sep 2025)  
+  [Show credential](https://www.credly.com/badges/c02bacec-612b-4e2e-bced-219bedfb6e63/public_url)
+- **Professional Certificate in Silicon Photonics Design, Fabrication and Data Analysis** — edX/University of British Columbia (Issued Jul 2024)  
+  [Show credential](https://courses.edx.org/certificates/0122f7d68f21432394c1832317671997)
