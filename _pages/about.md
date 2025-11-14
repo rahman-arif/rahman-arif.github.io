@@ -36,60 +36,48 @@ I completed my B.S. in Electrical and Electronic Engineering (with a minor in Ma
 Outside of research, I am into endurance sports — check out my recent races on [Athlinks](https://www.athlinks.com/athletes/570046763).
 
 ---
----
+<hr>
 
-## 🎓 Education
+<h2 class="mb-3">🎓 Education</h2>
 
-<div class="row">
-  <div class="col-md-2">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/UCSD_Seal.png" width="70" alt="UC San Diego logo">
-  </div>
-  <div class="col-md-10">
-    **UC San Diego**  
-    *Doctor of Philosophy – PhD, Photonics*  
+<div class="d-flex align-items-start mb-3">
+  <img class="edu-logo me-3" src="{{ site.baseurl }}/assets/img/logos/ucsd.png" alt="UC San Diego logo" loading="lazy">
+  <div>
+    <strong>UC San Diego</strong><br>
+    <em>Doctor of Philosophy – Photonics</em><br>
     <span class="text-muted">Sep 2024 – Present</span>
   </div>
 </div>
 
-<br>
-
-<div class="row">
-  <div class="col-md-2">
-    <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/North_South_University_Logo.png" width="70" alt="North South University logo">
-  </div>
-  <div class="col-md-10">
-    **North South University**  
-    *Bachelor of Science – BS, Electrical and Electronic Engineering, Mathematics*  
-    <span class="text-muted">2018 – 2022 | CGPA 3.93/4.0 (Summa Cum Laude, 1/178)</span>  
-    _Skills_: Python, Microsoft PowerPoint + 3 more
+<div class="d-flex align-items-start mb-3">
+  <img class="edu-logo me-3" src="{{ site.baseurl }}/assets/img/logos/nsu.png" alt="North South University logo" loading="lazy">
+  <div>
+    <strong>North South University</strong><br>
+    <em>B.Sc., Electrical & Electronic Engineering; Mathematics</em><br>
+    <span class="text-muted">2018 – 2022 · CGPA 3.93/4.0 (Summa Cum Laude, 1/178)</span><br>
+    <span class="text-muted">Skills: Python, Microsoft PowerPoint + 3 more</span>
   </div>
 </div>
 
----
+<hr class="mt-4">
 
-## 🏅 Licenses & Certifications
+<h2 class="mb-3">🏅 Licenses &amp; Certifications</h2>
 
-<div class="row">
-  <div class="col-md-2">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/UCSD_Seal.png" width="70" alt="UC San Diego logo">
-  </div>
-  <div class="col-md-10">
-    **MicroMBA**, UC San Diego – Rady School of Management  
-    <span class="text-muted">Issued Sep 2025</span>  
-    [Show Credential →](#)
+<div class="d-flex align-items-start mb-3">
+  <img class="cred-logo me-3" src="{{ site.baseurl }}/assets/img/logos/ucsd.png" alt="UC San Diego logo" loading="lazy">
+  <div>
+    <strong>MicroMBA</strong>, UC San Diego – Rady School of Management<br>
+    <span class="text-muted">Issued Sep 2025</span><br>
+    <a href="YOUR_MICROMBA_CREDENTIAL_URL" target="_blank" rel="noopener">Show credential →</a>
   </div>
 </div>
 
-<br>
-
-<div class="row">
-  <div class="col-md-2">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/EdX_logo.png" width="70" alt="edX logo">
-  </div>
-  <div class="col-md-10">
-    **Professional Certificate in Silicon Photonics Design, Fabrication & Data Analysis**, edX  
-    <span class="text-muted">Issued Jul 2024</span>  
-    [Show Credential →](#)  
-    _Skills_: MATLAB, Python
+<div class="d-flex align-items-start mb-3">
+  <img class="cred-logo me-3" src="{{ site.baseurl }}/assets/img/logos/edx.png" alt="edX logo" loading="lazy">
+  <div>
+    <strong>Professional Certificate in Silicon Photonics Design, Fabrication &amp; Data Analysis</strong>, edX<br>
+    <span class="text-muted">Issued Jul 2024</span><br>
+    <a href="YOUR_EDX_CREDENTIAL_URL" target="_blank" rel="noopener">Show credential →</a><br>
+    <span class="text-muted">Skills: MATLAB, Python</span>
   </div>
 </div>
