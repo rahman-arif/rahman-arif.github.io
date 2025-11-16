@@ -35,4 +35,3 @@ I completed my B.S. in Electrical and Electronic Engineering (with a minor in Ma
 
 Outside of research, I am into endurance sports — check out my recent races on [Athlinks](https://www.athlinks.com/athletes/570046763).
 
----
