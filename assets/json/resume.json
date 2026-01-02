@@ -125,6 +125,17 @@
   ],
   "skills": [
     {
+      "name": "Experimental Characterization & Tools",
+      "level": "",
+      "keywords": [
+        "High-speed Electro-optic Testing",
+        "RF Probe Station Measurements",
+        "Optical Insertion Loss & Backscatterer Reflectrometry"
+        "Optical Spectrum Analyzer (OSA)",
+        "Lasers & Photodetectors"
+      ]
+    },
+    {
       "name": "Simulation and Computer Aided Engineering",
       "level": "",
       "keywords": [
@@ -159,7 +170,8 @@
       "keywords": [
         "Python",
         "C",
-        "Assembly"
+        "Assembly",
+        "Verilog"
       ]
     },
     {
