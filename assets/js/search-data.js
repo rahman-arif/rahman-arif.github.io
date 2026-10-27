@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "Journal articles, conference papers, and preprints in integrated photonics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -377,16 +384,32 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-began-my-ph-d-in-electrical-engineering-photonics-at-uc-san-diego",
+          title: 'Began my Ph.D. in Electrical Engineering (Photonics) at UC San Diego.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-preprint-on-hybrid-lithium-niobate-electro-optic-modulators-integrated-with-silicon-nitride-waveguides-is-available-on-arxiv",
+          title: 'Our preprint on hybrid lithium niobate electro-optic modulators integrated with silicon nitride waveguides...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-ligentec-featured-our-collaborative-work-on-thin-film-lithium-niobate-modulators-integrated-with-a-silicon-nitride-photonics-platform",
+          title: 'LIGENTEC featured our collaborative work on thin-film lithium niobate modulators integrated with a...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-wafer-scale-integration-of-hybrid-lithium-niobate-electro-optic-modulators-was-published-online-in-the-journal-of-lightwave-technology",
+          title: 'Our paper on wafer-scale integration of hybrid lithium niobate electro-optic modulators was published...',
+          description: "",
+          section: "News",},{id: "news-completed-my-m-s-in-electrical-engineering-photonics-at-uc-san-diego",
+          title: 'Completed my M.S. in Electrical Engineering (Photonics) at UC San Diego.',
+          description: "",
+          section: "News",},{id: "news-passed-my-ph-d-preliminary-examination-at-uc-san-diego",
+          title: 'Passed my Ph.D. preliminary examination at UC San Diego.',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-a-ring-assisted-mach-zehnder-modulator-on-a-lithium-tantalate-silicon-nitride-platform-was-published-in-the-ofc-2026-proceedings-paper-w1a-6",
+          title: 'Our paper on a ring-assisted Mach–Zehnder modulator on a lithium tantalate–silicon nitride platform...',
+          description: "",
+          section: "News",},{id: "news-our-collaborative-work-on-thin-film-lithium-niobate-modulators-on-a-silicon-nitride-platform-was-presented-as-an-invited-paper-at-spie-photonics-europe-2026",
+          title: 'Our collaborative work on thin-film lithium niobate modulators on a silicon nitride platform...',
+          description: "",
+          section: "News",},{id: "news-pic-magazine-featured-our-collaborative-work-on-integrating-thin-film-lithium-niobate-with-low-loss-photonic-integrated-circuits-in-issue-2-2026",
+          title: 'PIC Magazine featured our collaborative work on integrating thin-film lithium niobate with low-loss...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
